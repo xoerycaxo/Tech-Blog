@@ -1,7 +1,7 @@
 {
   "name": "mvc-tech-blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "challenge 14",
   "main": "server.js",
   "scripts": {
     "test": "jest",
@@ -13,8 +13,8 @@
     "url": "git+https://github.com/xoerycaxo/Tech-Blog.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Eryca",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/xoerycaxo/Tech-Blog/issues"
   },
@@ -22,7 +22,9 @@
   "dependencies": {
     "bcrypt": "^5.1.0",
     "connect-session-sequelize": "^7.1.5",
+    "custom": "^0.0.0",
     "dotenv": "^16.0.3",
+    "express": "^4.18.1",
     "express-handlebars": "^6.0.6",
     "express-session": "^1.17.3",
     "handlebars": "^4.7.7",
